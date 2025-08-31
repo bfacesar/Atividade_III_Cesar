@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# permitir csvs dentro de data/
+!data/
+!data/*.csv
